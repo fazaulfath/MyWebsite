@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77bc3488.css",
+    "main.js": "/static/js/main.64e40f67.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/credit.png": "/static/media/credit.52d0ec62fee9c675d00e.png",
+    "static/media/school.png": "/static/media/school.17bac23fcb5544c64e17.png",
+    "static/media/resume.png": "/static/media/resume.bd30599b5f63ef51ac4b.png",
+    "static/media/FAZA ULFATH.pdf": "/static/media/FAZA ULFATH.92db995e015b406be88d.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.b377b3453d5203542a996c81c96ae3ea.svg",
+    "static/media/avatar.svg": "/static/media/avatar.8fe9a9a2bf2b4515a16cf68ee1ef4ba4.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.2cbff4150a94f768fa3c.svg",
+    "index.html": "/index.html",
+    "main.77bc3488.css.map": "/static/css/main.77bc3488.css.map",
+    "main.64e40f67.js.map": "/static/js/main.64e40f67.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bc3488.css",
+    "static/js/main.64e40f67.js"
+  ]
+}
