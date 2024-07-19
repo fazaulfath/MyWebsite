@@ -6,6 +6,7 @@ import resume from "../../Assets/Projects/resume.png";
 import school from "../../Assets/Projects/school.png";
 import credit from "../../Assets/Projects/credit.png";
 import leaf from "../../Assets/Projects/leaf.png";
+import scraper from "../../Assets/Projects/scraper.png";
 
 function Projects() {
   return (
@@ -62,11 +63,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={scraper}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/fazaulfath/Plant_AI"
+              title="News Scraper"
+              description="Developed a news aggregator using Scrapy and Pandas to scrape and process news from reputable sources. Displayed headlines on a user-friendly Streamlit interface with direct links to full articles. Implemented real-time updates with scheduled scraping tasks, ensuring a reliable and up-to-date news platform."
+              ghLink="https://github.com/fazaulfath/news_scraper"
             />
           </Col>
 
