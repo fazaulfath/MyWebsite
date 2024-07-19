@@ -5,6 +5,7 @@ import ProjectCard from "./ProjectCards";
 import resume from "../../Assets/Projects/resume.png";
 import school from "../../Assets/Projects/school.png";
 import credit from "../../Assets/Projects/credit.png";
+import credit from "../../Assets/Projects/leaf.png";
 
 function Projects() {
   return (
