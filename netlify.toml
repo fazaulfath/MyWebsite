@@ -1,0 +1,3 @@
+[build]
+  command = "CI=false npm run build"
+  publish = "build"  # or the directory where your build output is located
